@@ -28,5 +28,5 @@ This project implements a video processing pipeline that detects lane lines and 
 
 1. Clone this repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/adityapachkor7573/Lane-and-Car-Detection-Project.git
    cd Lane_Detection-main
